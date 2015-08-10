@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRenzheng</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rz_id">9527</string>
+    <string name="rz_name">邰利龙</string>
+    <string name="startbtn">开始认证</string>
+    <string name="stopbtn">结束认证</string>
+
+</resources>
